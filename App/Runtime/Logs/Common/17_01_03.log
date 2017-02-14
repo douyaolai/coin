@@ -1,0 +1,18 @@
+[ 2017-01-03T11:06:38+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008626s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-03T11:06:48+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-03T13:06:55+08:00 ] 127.0.0.1 /irt?_iwt_UA=UA-funshion-000002&ref=http://www.fun.tv/tv/&jsonp=_3OZNB
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 无法加载模块:Irt
+

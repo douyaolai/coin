@@ -1,0 +1,114 @@
+<include file="App/Home/View/Public/header.html"/>
+    <!--top end-->
+<script src="./元宝网｜第一数字资产交易平台_files/index.js"></script>
+<div id="main">
+	<div class="main_box">
+		<include file="App/Home/View/Public/left.html"/>
+		<div class="raise right clearfix">
+            <div class="ybc_list">
+	<div class="ybcoin">
+                <h2 class="left">转入{$currency.currency_name}</h2>
+		<div class="clear"></div>
+        	</div>
+	<div class="clearfix" style="border:1px solid #e6e6e6; margin:10px 0 10px 0; padding:10px 10px 10px 0;">
+		<form action="{:U('Pay/bpay2submit')}" method="post" id="drawform" jump-url="{:U('User/draw')}">
+           <table class="my_add" border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+              	<tr>
+              		<td style="padding-left:90px;">
+              			积分账户
+              			<input type="hidden" name="currency_id" value="{$currency.currency_id}"  />
+              			<input class="sum" type="text"  name="lhty_account" id="lhty_account" style="border:0;" value="{$memberaccount}" readonly="readonly"  /> 
+              		</td>
+              	</tr>
+                <tr>
+                  <td style="position:relative; padding-left:90px;">转入数量                  	
+                    <!-- for disable autocomplete on chrome -->
+                    <input class="sum" name="lhty_money" id="lhty_money"  autocomplete="off" type="text" onkeyup="value=value.replace(/[^\d]/g,'');sjdz();">
+                    </td>                  
+                </tr> 
+                <tr>
+                  <td style=" padding-left:90px;">交易密码
+                    <input style="display:none" type="password">
+                    <!-- for disable autocomplete on chrome -->
+                    <input class="sum" name="lhty_pwd" id="lhty_pwd" autocomplete="off" type="password"> 您的联合通用积分会员系统交易密码
+                  </td>                  
+                </tr>
+                <tr>                  
+                  <td  style="padding-left:140px;"><input class="confirm" onclick="btndisable(this)" value="确认转入" type="submit"></td>
+                </tr>
+              </tbody>
+            </table>
+        </form>
+	</div>
+   
+
+    <div class="ybc_list">
+        <div class="ybcoin">
+            <h2 class="left">转入说明</h2>
+            <div class="clear"></div>
+        </div>
+                <p>1. 从联合通用积分会员系统提币到交易平台，需要输入您联合通用积分会员系统的账号名密码</p>
+        <p>2. 联合积分转入交易系统后可以随时挂单交易，转入的联合积分不能回转到联合积分会员系统，只能用作在线交易</p> 
+            </div>
+</div>
+<div class="ybc_list">
+	<div class="ybcoin">
+		<h2 class="left">转入记录</h2>
+		<div class="clear"></div>
+	</div>	
+		<table cellspacing="0" cellpadding="0" border="0" class="raise_list" align="center" style="border:1px solid #e1e1df;">
+			<thead>
+			<tr>
+				<th>记录ID</th>
+				<th>用户名</th>
+				<th>数量</th>
+				<th>实际转入量</th>
+				<th>时间</th>
+				<th>状态</th>
+			</tr>
+			</thead>
+			<tbody>
+			<volist name="listlog" id='vo'>
+            <tr id="btcin_box" class="btcin_new">
+                <td id="btcin_id">{$vo.pay_id}</td>
+                <td id="btcin_wallet">{$vo.member_name}</td>
+                <td id="btcin_number">{$vo.money}</td>
+                <td id="btcin_created">{$vo.count}</td>
+				 <td id="btcin_created">{$vo.add_time|date="Y-m-d H:i:s",###}</td>
+                <td class="tableEnd" id="btcin_status"><eq name="vo.status" value='2'>等待中<else/>转入成功</eq></td>
+            </tr>
+			</volist>
+						</tbody>
+		</table>
+				{$page}
+				<input type="hidden" id="currency_id" value="{$currency.currency_id}">
+	</div>
+	<script>
+    setInterval("myInterval()",5000);//1000为1秒钟
+       function myInterval()
+       {
+	   	var id=$("#currency_id").val();
+			
+           $.post('{:U('Pay/chongzhi_function')}',{currency_id:id},function(data){
+			   if(data.status==1){
+				   location.reload();     
+				   }
+			})
+        }
+       
+       function btndisable(obj){       		    		
+       		$(obj).attr("value","正在处理...");
+       }
+
+</script>
+	<style>.btcin_new,.btcin_new td {background: #DDFFDD !important;}</style>
+</div>
+  
+
+		</div>
+		<div class="clear"></div>
+	</div>
+    
+<!--footer start-->
+<include file="App/Home/View/Public/footer.html"/>

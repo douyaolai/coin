@@ -1,0 +1,482 @@
+[ 2017-01-05T08:54:23+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*&r=1483577663036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009774s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*
+
+m2377||#gSideBar|1|43|4|etype=1|subCount=0|updateCount=0
+
+[ 2017-01-05T08:54:32+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m1t7gn948|0|0|1920|1080|1903|950|-311|565|-311|1165|01b5m1t7gk2lsp|01b5m1t7gm2377|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+ERR: 无法加载模块:1|1b5m1t7gn948|0|0|1920|1080|1903|950|-311|565|-311|1165|01b5m1t7gk2lsp|01b5m1t7gm2377|
+
+[ 2017-01-05T08:54:32+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2F&r=1483577672683
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*http:
+
+[ 2017-01-05T08:54:34+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T08:54:34+08:00 ] 127.0.0.1 /cv4/?s=0483577672079602fcaf4%7C31200%7C30%7C0%7C0%7C0%7C133071476%7C2751%7C0%7C0%7C0%7C43oij9q7d570%7C01b5m1t7gk2lsp%7C01b5m1t7gm2377%7CWIN%2023%2C0%2C0%2C207%7CPortalPlayer%5F196%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252Falbumplay%252Fs866liBTy6I%2Ehtml%253Fspm%253Da2h1r%2E8267915%2Em1273%2E5%7E5%212%7E5%7E5%7E5%7EA%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252F%7Ctpa%3D%7CresourceId%3D%7Cpepper%5Fmix%3Dnull%7Cabtest%3D0&noCache=21231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+ERR: 无法加载模块:0483577672079602fcaf4|31200|30|0|0|0|133071476|2751|0|0|0|43oij9q7d570|01b5m1t7gk2lsp|01b5m1t7gm2377|WIN 23,0,0,207|PortalPlayer_196|http%3A%2F%2Fwww.tudoualbumplay%2Fs866liBTy6I.html%3Fspm%3Da2h1r.8267915.m1273.5~5!2~5~5~5~A|http%3A%2F%2Fwww.tudou||||
+
+[ 2017-01-05T08:54:34+08:00 ] 127.0.0.1 /player/addPlayerStaticReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T08:54:35+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T08:54:37+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T08:54:38+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m1tgrh26hm|30|0|1920|1080|1903|950|426|352|426|352|01b5m1t7gk2lsp|01b5m1t7gm2377|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+ERR: 无法加载模块:1|1b5m1tgrh26hm|30|0|1920|1080|1903|950|426|352|426|352|01b5m1t7gk2lsp|01b5m1t7gm2377|
+
+[ 2017-01-05T08:54:38+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Falbumplay%2Fs866liBTy6I.html%3Fspm%3Da2h1r.8267915.m1273.5~5!2~5~5~5~A&r=1483577678424
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*http:
+
+[ 2017-01-05T08:55:02+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2F&r=1483577701957
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1t7gk2lsp*_*01b5m1t7gm2377*_*0*_**_*http:
+
+[ 2017-01-05T08:55:38+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10000000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*&r=1483577738661
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10000000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*
+
+[ 2017-01-05T08:55:38+08:00 ] 127.0.0.1 /ep1/?v=1&s=1b5m1vhbh2emq|0|0|01b5m1vhbe29tq|01b5m1vhbg166m||%23gSideBar|1|77|3|etype=1|subCount=0|updateCount=0&r=1483577738701
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+ERR: 无法加载模块:1b5m1vhbh2emq|0|0|01b5m1vhbe29tq|01b5m1vhbg166m||#gSideBar|1|77|3|etype=1|subCount=0|updateCount=0
+
+[ 2017-01-05T08:55:44+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m1vhbh2emq|0|0|1670|939|1659|838|-333|252|-333|1131|01b5m1vhbe29tq|01b5m1vhbg166m|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:1|1b5m1vhbh2emq|0|0|1670|939|1659|838|-333|252|-333|1131|01b5m1vhbe29tq|01b5m1vhbg166m|
+
+[ 2017-01-05T08:55:44+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2F&r=1483577744890
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http:
+
+[ 2017-01-05T08:55:49+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m1vndh3aq|30|0|1670|939|1659|838|415|356|415|356|01b5m1vhbe29tq|01b5m1vhbg166m|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:1|1b5m1vndh3aq|30|0|1670|939|1659|838|415|356|415|356|01b5m1vhbe29tq|01b5m1vhbg166m|
+
+[ 2017-01-05T08:55:49+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Falbumplay%2Fs866liBTy6I.html%3Fspm%3Da2h1r.8267915.m1273.5~5!2~5~5~5~A&r=1483577749175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http:
+
+[ 2017-01-05T08:57:06+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m1vndh3aq|30|0|1670|939|1659|838|439|291|439|291|01b5m1vhbe29tq|01b5m1vhbg166m|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载模块:1|1b5m1vndh3aq|30|0|1670|939|1659|838|439|291|439|291|01b5m1vhbe29tq|01b5m1vhbg166m|
+
+[ 2017-01-05T08:57:07+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Falbumplay%2Fs866liBTy6I%2FuEVtZ-6NxRE.html&r=1483577826985
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http:
+
+[ 2017-01-05T09:40:29+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Falbumplay%2Fs866liBTy6I%2Fo5D2kxICUkc.html&r=1483580429307
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http:
+
+[ 2017-01-05T10:03:52+08:00 ] 127.0.0.1 /ytv/SH/BJSC/6009020141110190919.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Ytv
+
+[ 2017-01-05T10:16:59+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T10:16:59+08:00 ] 127.0.0.1 /player/addPlayerStaticReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:16:59+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=59&hd=1&emb=MTEyLjI1MC4xMzYuMTc4AjE2MDA4ODU2MAJkZXRhaWwudG1hbGwuY29tAi9pdGVtLmh0bQ%3D%3D&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=0&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=0&showid%5Fv2=&ikuflag=u&rnd=24651&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&starttime=0&oip=1895467186&videoid=160088560&isvip=0&ev=1&cs=263&playstate=1&ctype=10&timestamp=1483582619531&Tid=0&Type=0&mtype=oth&url=&playComplete=0&paystate=0&langid=0&referUrl=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:16:59+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:17:00+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=60&hd=1&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&paystate=0&viewUserId=0&currentPlayTime=0&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=0&showid%5Fv2=&ikuflag=u&rnd=25742&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&cs=263&oip=1895467186&videoid=160088560&isvip=0&ev=1&Tid=0&playstate=1&ctype=10&timestamp=1483582620621&langid=0&Type=0&mtype=oth&playComplete=0&rs=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:17:00+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T10:17:04+08:00 ] 127.0.0.1 /fullscreen.php?winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&type=0&cs=263&ct=n&rand=41572&videoid=160088560
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+ERR: 无法加载模块:Fullscreen
+
+[ 2017-01-05T10:18:00+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=60&hd=1&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=60%2E096&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&showid%5Fv2=&ikuflag=u&rnd=85846&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&cs=263&oip=1895467186&videoid=160088560&isvip=0&ev=1&Tid=0&playstate=1&ctype=10&timestamp=1483582680725&langid=0&Type=0&mtype=oth&playComplete=0&paystate=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:19:00+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=60&hd=1&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=120%2E225&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&showid%5Fv2=&ikuflag=u&rnd=145979&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&cs=263&oip=1895467186&videoid=160088560&isvip=0&ev=1&Tid=0&playstate=1&ctype=10&timestamp=1483582740859&langid=0&Type=0&mtype=oth&playComplete=0&paystate=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:20:01+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=60&hd=1&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=180%2E399&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&showid%5Fv2=&ikuflag=u&rnd=206147&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&cs=263&oip=1895467186&videoid=160088560&isvip=0&ev=1&Tid=0&playstate=1&ctype=10&timestamp=1483582801026&langid=0&Type=0&mtype=oth&playComplete=0&paystate=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:20:22+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T10:21:03+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=60&hd=1&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=270%2E425&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&showid%5Fv2=&ikuflag=u&rnd=268658&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&cs=263&oip=1895467186&videoid=160088560&isvip=0&ev=1&Tid=0&playstate=1&ctype=10&timestamp=1483582863537&langid=0&Type=0&mtype=oth&playComplete=0&paystate=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:21:35+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T10:21:44+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:21:44+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:21:44+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=61&hd=1&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=311%2E442&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&showid%5Fv2=&ikuflag=u&rnd=309836&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&cs=263&oip=1895467186&videoid=160088560&isvip=0&ev=1&Tid=0&playstate=1&ctype=10&timestamp=1483582904715&langid=0&Type=0&mtype=oth&playComplete=1&paystate=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:21:45+08:00 ] 127.0.0.1 /player/addPlayerStaticReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:21:45+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?number=62&hd=1&emb=MTEyLjI1MC4xMzYuMTc4AjE2MDA4ODU2MAJkZXRhaWwudG1hbGwuY29tAi9pdGVtLmh0bQ%3D%3D&source=out&pid=ca18167fbd81f280&ct=n&videoOwnerId=325822548&continuationPlay=1&viewUserId=0&currentPlayTime=311%2E442&totalsec=312&winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=1&showid%5Fv2=&ikuflag=u&rnd=310111&topHdVideo=10068&format=2&tk=0524&sid=048358259584410142601&starttime=0&oip=1895467186&videoid=160088560&isvip=0&ev=1&cs=263&playstate=1&ctype=10&timestamp=1483582904990&Tid=0&Type=0&mtype=oth&url=%26fullscreen%3D4&playComplete=0&paystate=0&langid=0&referUrl=null
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-05T10:21:45+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T10:21:46+08:00 ] 127.0.0.1 /fullscreen.php?winType=3&guid=a3573f2d%2D8c84%2D9558%2Dd2ee%2D6C69EAA19c35&fullflag=0&type=0&cs=263&ct=n&rand=82176&videoid=160088560
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Fullscreen
+
+[ 2017-01-05T10:30:39+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Falbumplay%2Fs866liBTy6I%2FgNmjLy6Z6gk.html&r=1483583439905
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http:
+
+[ 2017-01-05T10:31:01+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T11:11:04+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10002500000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DZGqrPkxKaHOmKm_3ahJfa9uCQzzySpFLsf4tRC3TZfpJrVT53eFy7qQUeKpT8OAn6goTQT33Yu5XwmMvMJKM__%26wd%3D%26eqid%3Da331fd5f0001a1b300000006586db90e&r=1483585864760
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10002500000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*https:
+
+[ 2017-01-05T11:11:05+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T11:11:05+08:00 ] 127.0.0.1 /e/page/js/fail/?v=1&s=Script%20error.|http%3A%2F%2Fwww.tudou.com%2Fprograms%2Fview%2FANqUcodqqKQ%2F|01b5m1t7gk2lsp_0|Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F54.0.2840.99%20Safari%2F537.36
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+ERR: 无法加载模块:Script error.|http:
+
+[ 2017-01-05T11:11:08+08:00 ] 127.0.0.1 /cv4/?s=148358586514613193347%7C11000%7C25%7C0%7C0%7C0%7C51889914%7C90%7C0%7C0%7C0%7C43oij9q7d570%7C01b5m1t7gk2lsp%7C01b5m9ngq61d21%7CWIN%2023%2C0%2C0%2C207%7CPortalPlayer%5F196%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252Fprograms%252Fview%252FANqUcodqqKQ%252F%7Chttps%253A%252F%252Fwww%2Ebaidu%2Ecom%252Flink%253Furl%253DZGqrPkxKaHOmKm%5F3ahJfa9uCQzzySpFLsf4tRC3TZfpJrVT53eFy7qQUeKpT8OAn6goTQT33Yu5XwmMvMJKM%5F%5F%2526wd%253D%2526eqid%253Da331fd5f0001a1b300000006586db90e%7Ctpa%3D%7CresourceId%3D%7Cpepper%5Fmix%3Dnull%7Cabtest%3D0&noCache=32162
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:148358586514613193347|11000|25|0|0|0|51889914|90|0|0|0|43oij9q7d570|01b5m1t7gk2lsp|01b5m9ngq61d21|WIN 23,0,0,207|PortalPlayer_196|http%3A%2F%2Fwww.tudou.com%2Fprograms%2Fview%2FANqUcodqqKQ%2F|https%3A%2F%2Fwww.baidu||||
+
+[ 2017-01-05T11:11:22+08:00 ] 127.0.0.1 /ep1/?v=1&s=1b5m9o1u3cfl|0|0|01b5m1t7gk2lsp|01b5m9ngq61d21|https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DPZPZdnD9g0F5zDF2-93FGOhLOtF5ZN5dKRlD4tT1xx9n8_nYew9Qfdn237sh_5DHWPYlPtE3r1OroAVllcnmwa%26wd%3D%26eqid%3Dcbe817ab0004171c00000002586db955|%23gSideBar|1|113|3|etype=1|subCount=0|updateCount=0&r=1483585882182
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:1b5m9o1u3cfl|0|0|01b5m1t7gk2lsp|01b5m9ngq61d21|https:
+
+[ 2017-01-05T11:11:22+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DPZPZdnD9g0F5zDF2-93FGOhLOtF5ZN5dKRlD4tT1xx9n8_nYew9Qfdn237sh_5DHWPYlPtE3r1OroAVllcnmwa%26wd%3D%26eqid%3Dcbe817ab0004171c00000002586db955&r=1483585882152
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*https:
+
+[ 2017-01-05T11:11:39+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m9o1u3cfl|0|0|1920|1080|1903|950|-430|349|-430|349|01b5m1t7gk2lsp|01b5m9ngq61d21|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:1|1b5m9o1u3cfl|0|0|1920|1080|1903|950|-430|349|-430|349|01b5m1t7gk2lsp|01b5m9ngq61d21|
+
+[ 2017-01-05T11:11:40+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Fplcover%2F3pj5L8bjsc8%2F&r=1483585900161
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http:
+
+[ 2017-01-05T11:11:40+08:00 ] 127.0.0.1 /ep1/?v=1&s=1b5m9ojho2apm|0|0|01b5m1t7gk2lsp|01b5m9ngq61d21|http%3A%2F%2Fwww.tudou.com%2Fplcover%2F3pj5L8bjsc8%2F|%23gSideBar|1|66|3|etype=1|subCount=0|updateCount=0&r=1483585900176
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:1b5m9ojho2apm|0|0|01b5m1t7gk2lsp|01b5m9ngq61d21|http:
+
+[ 2017-01-05T11:11:47+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m9ojho2apm|0|0|1920|1080|1903|950|-349|357|-349|357|01b5m1t7gk2lsp|01b5m9ngq61d21|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+ERR: 无法加载模块:1|1b5m9ojho2apm|0|0|1920|1080|1903|950|-349|357|-349|357|01b5m1t7gk2lsp|01b5m9ngq61d21|
+
+[ 2017-01-05T11:11:48+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Fhome%2F_74846532%2Fitem&r=1483585908254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10000000000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http:
+
+[ 2017-01-05T11:11:48+08:00 ] 127.0.0.1 /ep1/?v=1&s=1b5m9orftcfo|0|0|01b5m1t7gk2lsp|01b5m9ngq61d21|http%3A%2F%2Fwww.tudou.com%2Fhome%2F_74846532%2Fitem|%23gSideBar|1|33|2|etype=1|subCount=0|updateCount=0&r=1483585908265
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+ERR: 无法加载模块:1b5m9orftcfo|0|0|01b5m1t7gk2lsp|01b5m9ngq61d21|http:
+
+[ 2017-01-05T11:12:02+08:00 ] 127.0.0.1 /ck2/?s=1|1b5m9orftcfo|0|0|1920|1080|1903|950|499|212|499|512|01b5m1t7gk2lsp|01b5m9ngq61d21|
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+ERR: 无法加载模块:1|1b5m9orftcfo|0|0|1920|1080|1903|950|499|212|499|512|01b5m1t7gk2lsp|01b5m9ngq61d21|
+
+[ 2017-01-05T11:12:03+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10002500000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Fhome%2F_74846532%2Fplaylist&r=1483585922919
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10002500000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http:
+
+[ 2017-01-05T11:12:03+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T11:12:06+08:00 ] 127.0.0.1 /cv4/?s=148358592327508785948%7C10000%7C25%7C0%7C0%7C10785573%7C111331846%7C2569%7C0%7C0%7C0%7C43oij9q7d570%7C01b5m1t7gk2lsp%7C01b5m9ngq61d21%7CWIN%2023%2C0%2C0%2C207%7CPortalPlayer%5F196%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252Flistplay%252FkibvFIBshNo%2Ehtml%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252Fhome%252F%5F74846532%252Fplaylist%7Ctpa%3D%7CresourceId%3D%7Cpepper%5Fmix%3Dnull%7Cabtest%3D0&noCache=84473
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:148358592327508785948|10000|25|0|0|10785573|111331846|2569|0|0|0|43oij9q7d570|01b5m1t7gk2lsp|01b5m9ngq61d21|WIN 23,0,0,207|PortalPlayer_196|http%3A%2F%2Fwww.tudou.com%2Flistplay%2FkibvFIBshNo.html|http%3A%2F%2Fwww.tudou||||
+
+[ 2017-01-05T11:12:09+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-05T11:12:12+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10002100000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Flistplay%2FkibvFIBshNo.html&r=1483585932596
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10002100000*_*01b5m1t7gk2lsp*_*01b5m9ngq61d21*_*0*_**_*http:
+
+[ 2017-01-05T11:12:13+08:00 ] 127.0.0.1 /cv4/?s=148358593266403500264%7C10000%7C21%7C0%7C0%7C10785573%7C63132794%7C2785%7C0%7C0%7C0%7C43oij9q7d570%7C01b5m1t7gk2lsp%7C01b5m9ngq61d21%7CWIN%2023%2C0%2C0%2C207%7CPortalPlayer%5F196%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252Flistplay%252FkibvFIBshNo%252FTFGno9ypzpo%2Ehtml%7Chttp%253A%252F%252Fwww%2Etudou%2Ecom%252Flistplay%252FkibvFIBshNo%2Ehtml%7Ctpa%3D%7CresourceId%3D%7Cpepper%5Fmix%3Dnull%7Cabtest%3D0&noCache=35701
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:148358593266403500264|10000|21|0|0|10785573|63132794|2785|0|0|0|43oij9q7d570|01b5m1t7gk2lsp|01b5m9ngq61d21|WIN 23,0,0,207|PortalPlayer_196|http%3A%2F%2Fwww.tudou.com%2Flistplay%2FkibvFIBshNo%2FTFGno9ypzpo|http%3A%2F%2Fwww.tudou.com%2Flistplay%2FkibvFIBshNo||||
+
+[ 2017-01-05T11:16:01+08:00 ] 127.0.0.1 /pv3/?s=1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http%3A%2F%2Fwww.tudou.com%2Falbumplay%2Fs866liBTy6I%2F5ns-rwtM7k4.html&r=1483586161730
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:1*_*0*_*1*_**_*10003000000*_*01b5m1vhbe29tq*_*01b5m1vhbg166m*_*0*_**_*http:
+
+[ 2017-01-05T13:36:56+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:39:17+08:00 ] 127.0.0.1 /vq/init?flash=WIN%2023,0,0,207&auto=1&vid=41bhBw4_mMGNoeAkEB4D4Q..&ver=Version_3.0.2730_build:201611241215&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&url=http%3A%2F%2Fwww.ku6.com%2F&refer=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&cid=&kuid=1483510658704944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+ERR: 无法加载模块:Vq
+
+[ 2017-01-05T13:39:18+08:00 ] 127.0.0.1 /vq/start?utime=945&error=0&atime=18&timeout=0&ver=Version_3.0.2730_build:201611241215&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&url=http%3A%2F%2Fwww.ku6.com%2F&refer=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&cid=118000&kuid=1483510658704944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 无法加载模块:Vq
+
+[ 2017-01-05T13:39:18+08:00 ] 127.0.0.1 /vq/gslbinfo?utime=528&error=0&gone=217001&split=1&proxyurl=http%3A%2F%2F27.221.8.11%2F635%2F37%2F33%2F31ac3b6558a26ff291b6002c8418e1b8-f4v-h264-aac-622-32-18066.0-1487551-1480298791760-4abed7ca7609d198290e85b2f22cda8e-1-00-00-00.f4v%3Fvid%3D125082623%26lp%3D8083%26lroot%3D%2F2%26kfd%3D1%26cmd%3D0%26start%3D0%26uuid%3DB0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543%26tm%3D1483681168%26key%3Dab48ccd9d9e0ac7090762ced500c77d1%26diskid%3D139%26lr%3D0%26nlh%3D0%26check%3D1%26id%3Dku6_vod%26usrip%3D112.250.136.178%26uloc%3D15.0.2%26ipsm%3D1%26ext%3D.f4v&ver=Version_3.0.2730_build:201611241215&fid=http://27.221.8.11/635/37/33/31ac3b6558a26ff291b6002c8418e1b8-f4v-h264-aac-622-32-18066.0-1487551-1480298791760-4abed7ca7609d198290e85b2f22cda8e-1-00-00-00.f4v?vid=125082623&lp=8083&lroot=/2&kfd=1&cmd=0&start=0&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&tm=1483681168&key=ab48ccd9d9e0ac7090762ced500c77d1&diskid=139&lr=0&nlh=0&check=1&id=ku6_vod&usrip=112.250.136.178&uloc=15.0.2&ipsm=1&ext=.f4v&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&url=http%3A%2F%2Fwww.ku6.com%2F&refer=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&cid=118000&kuid=1483510658704944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Vq
+
+[ 2017-01-05T13:39:19+08:00 ] 127.0.0.1 /vq/play?fid=TjuwCdUqEilIPbta6soFxQ..&userrate=0&videorate=799&audiorate=null&retry=0&error=0&utime=2382&kps=0&hd=0&rnd=0.1316053168848157&gone=217001&split=1&ver=Version_3.0.2730_build:201611241215&time=18&preload=1&uid=24695073&vid=41bhBw4_mMGNoeAkEB4D4Q..&proxyurl=http%3A%2F%2Fmain.gslb.ku6.com%2Fs1%2FTjuwCdUqEilIPbta6soFxQ..%2F1480303217880%2Fc6465c09b6ddf22d7302e183a2d0d889%2F1483593761983%2Fv635%2F40%2F71%2F13437737851ad40844c5f25db739f0ba-f4v-h264-aac-1120-32-18066.0-2608792-1480302412685-2f69521cf36635271fe906994703512c-1-00-00-00.f4v%3Fuuid%3DB0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543%26rate%3D799%26start%3D0&streamurl=http%3A%2F%2F119.167.216.140%2F635%2F37%2F33%2F31ac3b6558a26ff291b6002c8418e1b8-f4v-h264-aac-622-32-18066.0-1487551-1480298791760-4abed7ca7609d198290e85b2f22cda8e-1-00-00-00.f4v%3Fvid%3D125082623%26lp%3D8083%26lroot%3D%2F2%26kfd%3D1%26cmd%3D0%26uuid%3DB0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543%26tm%3D1483681169%26key%3D149dec84488f45a5350d390a070fabf7%26diskid%3D561%26lr%3D0%26nlh%3D0%26check%3D1%26id%3Dku6_vod%26usrip%3D112.250.136.178%26uloc%3D15.0.2%26ipsm%3D1%26ext%3D.f4v&drag=0&loginuid=&split=1&testrate=NaN&tvpercent=0&timeout=0&pid=910&clientTime=715&kernel=Ku6_Kernel_1.0.2572&from=&flash=WIN%2023,0,0,207&wnd=0000000000000000000000000000000000000000&playtimes=1&mediasrc=0&ref=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&frombd=&vvsplit=1&uploadtime=1480301635&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&url=http%3A%2F%2Fwww.ku6.com%2F&refer=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&cid=118000&kuid=1483510658704944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Vq
+
+[ 2017-01-05T13:39:19+08:00 ] 127.0.0.1 /vq/cv?&flash=WIN%2023,0,0,207&vid=41bhBw4_mMGNoeAkEB4D4Q..&ref=&split=1&time=18&start=0&rnd=0.5610357378609478&ver=Version_3.0.2730_build:201611241215&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&url=http%3A%2F%2Fwww.ku6.com%2F&refer=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&cid=118000&kuid=1483510658704944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+ERR: 无法加载模块:Vq
+
+[ 2017-01-05T13:39:19+08:00 ] 127.0.0.1 /dostatv.do?method=setVideoPlayCount&o=24695073&c=118000&v=41bhBw4_mMGNoeAkEB4D4Q..&rnd=0.9185097082518041
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Dostatv
+
+[ 2017-01-05T13:39:19+08:00 ] 127.0.0.1 /vq/action?utime=917&timeload=18&timetotal=18&byteload=1487551&bytetotal=1565454&byteloadtime=918&streamspeed=1582&cdnuse=0&ontime=0&streamurl=http%3A%2F%2F119.167.216.140%2F635%2F37%2F33%2F31ac3b6558a26ff291b6002c8418e1b8-f4v-h264-aac-622-32-18066.0-1487551-1480298791760-4abed7ca7609d198290e85b2f22cda8e-1-00-00-00.f4v%3Fvid%3D125082623%26lp%3D8083%26lroot%3D%2F2%26kfd%3D1%26cmd%3D0%26uuid%3DB0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543%26tm%3D1483681169%26key%3D149dec84488f45a5350d390a070fabf7%26diskid%3D561%26lr%3D0%26nlh%3D0%26check%3D1%26id%3Dku6_vod%26usrip%3D112.250.136.178%26uloc%3D15.0.2%26ipsm%3D1%26ext%3D.f4v&orate=799&vrate=799&drag=0&preload=1&proxyurl=http%3A%2F%2Fmain.gslb.ku6.com%2Fs1%2FTjuwCdUqEilIPbta6soFxQ..%2F1480303217880%2Fc6465c09b6ddf22d7302e183a2d0d889%2F1483593761983%2Fv635%2F40%2F71%2F13437737851ad40844c5f25db739f0ba-f4v-h264-aac-1120-32-18066.0-2608792-1480302412685-2f69521cf36635271fe906994703512c-1-00-00-00.f4v%3Fuuid%3DB0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543%26rate%3D799%26start%3D0%26ref%3Dout&retry=0&split=1&start=0&time=18&gone=217001&vtime=0&percent=0.00&action=streamspeed&vid=41bhBw4_mMGNoeAkEB4D4Q..&uuid=B0B32E1EAF8A122672DDB16FB28DDDBBAEBCB543&rnd=0.6146033643744886&refer=http%3A%2F%2Fv.baidu.com%2Fwatch%2F07742439476239073490.html%3Fpage%3DvideoMultiNeed%26framehost%3Dbaidu.ku6.com%26referer%3Dhttp%3A%2F%2Fv.baidu.com%2Fv%253Fct%253D301989888%2526rn%253D20%2526pn%253D0%2526db%253D0%2526s%253D25%2526ie%253Dutf-8%2526word%253D%2525E5%252590%25258A%2525E9%2525A1%2525B6%2525E6%252596%2525BD%2525E5%2525B7%2525A5%26inner&url=http%3A%2F%2Fwww.ku6.com%2F&pid=910&cid=118000&clientTime=2394&ver=Version_3.0.2730_build:201611241215&kernel=Ku6_Kernel_1.0.2572&from=&script=true&flash=WIN%2023,0,0,207&wnd=0000000000000000000000000000000000000000&playtimes=1&mediasrc=0&uid=24695073&ref=&frombd=&uploadtime=1480301635
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Vq
+
+[ 2017-01-05T13:39:19+08:00 ] 127.0.0.1 /dostatv.do?method=getVideoPlayCount&n=gotPlayCounts&cp=0&v=3UcSJTK3HU7XSUtZLmQN8w..|wUvJ4VfUlk4X_ANF_46_Uw..|sUFWgCLs0OC4hI_47xqUGQ..|omr_6PcdVVaACw050QwUlQ..|wv_MWk6lAYTGtnFW0ZxPZA..
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Dostatv
+
+[ 2017-01-05T13:40:05+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:06+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:11+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:11+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:15+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:29+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:29+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-05T13:40:30+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+ERR: 无法加载模块:Cs
+

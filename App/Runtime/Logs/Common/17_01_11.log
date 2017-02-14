@@ -1,0 +1,18 @@
+[ 2017-01-11T09:55:43+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015112s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-11T15:57:52+08:00 ] 127.0.0.1 /bill/s2015/xuanzhao/cypd/cypd.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:Bill
+
+[ 2017-01-11T15:57:53+08:00 ] 127.0.0.1 /bill/s2015/xuanzhao/cypd/cypd.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Bill
+

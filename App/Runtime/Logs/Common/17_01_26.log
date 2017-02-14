@@ -1,0 +1,188 @@
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/background.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015458s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/switch_width.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015509s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/px.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Static
+
+c
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/nv.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/search.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/nv_a.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/titlebg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/qmenu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/pt_item.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/chart.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:12+08:00 ] 127.0.0.1 /static/image/common/scrolltop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/switch_width.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/background.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/newarow.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/px.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/pn.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/nv.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/search.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/qmenu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/nv_a.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/titlebg_sd.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/fav.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/pt_item.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/feed.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/increase.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/arw_l.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/atarget.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/refresh.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:36+08:00 ] 127.0.0.1 /static/image/common/arrwd.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:37+08:00 ] 127.0.0.1 /static/image/editor/editor.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+ERR: 无法加载模块:Static
+
+[ 2017-01-26T15:27:37+08:00 ] 127.0.0.1 /static/image/common/scrolltop.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 无法加载模块:Static
+

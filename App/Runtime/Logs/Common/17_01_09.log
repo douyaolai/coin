@@ -1,0 +1,72 @@
+[ 2017-01-09T14:55:57+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015283s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-09T14:55:58+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-09T14:55:58+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-09T14:55:58+08:00 ] 127.0.0.1 /cs/jsfile/js/c.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Cs
+
+[ 2017-01-09T15:42:24+08:00 ] 127.0.0.1 /player/addPlayerStaticReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-09T15:42:24+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-09T15:42:25+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-09T15:42:25+08:00 ] 127.0.0.1 /player/addPlayerDurationReport?fct=&videoOwnerId=832411444&pb=0&viewUserId=0&tk=0529&videoid=XMTYwNTEyMDA4NA&source=out&oip=1895484740&rnd=516&isvip=0&showid%5Fv2=&playstate=1&showid%5Fv3=&pid=b8987d4e07642c69&show%5Fvideotype=&format=0&number=59&sid=04839477419751016139d&fullflag=0&Type=0&frame=&playComplete=0&Tid=0&continuationPlay=0&stg=&Copyright=&ct=o&hd=0&cs=259&cna=Hq3sEBZ2gl8CAXe3Zh1en%2Biu&winType=40&unCookie=&guid=36A99C33050F9A9DA3F1F4099AEC499AA26D5D6E&totalsec=70&langid=&referUrl=http%253A%252F%252Fwww%2Edressplus%2Ecn%252Fabout%2Ehtml&ctype=60&timestamp=1483947741456&mtype=oth&paystate=0&currentPlayTime=0&url=http%253A%252F%252Fwww%2Edressplus%2Ecn%252Fproduct%5Fpage1%2Ehtml&emb=MTEyLjI1MC4yMDUuNjgCNDAxMjgwMDIxAnd3dy5kcmVzc3BsdXMuY24CL3Byb2R1Y3RfcGFnZTEuaHRtbA%3D%3D&ikuflag=u&topHdVideo=1&ev=1&pvid=1483947741224B4f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-09T15:42:25+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-09T15:43:31+08:00 ] 127.0.0.1 /crossdomain.xml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+ERR: 无法加载模块:Crossdomain
+
+[ 2017-01-09T15:43:38+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Player
+
+[ 2017-01-09T15:43:38+08:00 ] 127.0.0.1 /player/addPlayerDynamicReport
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Player
+
