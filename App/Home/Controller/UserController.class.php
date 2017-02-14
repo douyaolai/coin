@@ -715,7 +715,7 @@ class UserController extends HomeController {
         //支付表
         $where['member_name']=$this->member['name'];
         $where['member_id']=$this->member['member_id'];
-        $where['type'] = array('NEQ',3);
+        $where['type'] = array('EQ',1);
         //分页
         $pay = M('Pay'); // 实例化User对象
         $count = $pay->where($where)->count();// 查询满足要求的总记录数
